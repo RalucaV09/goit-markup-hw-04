@@ -283,10 +283,14 @@ margin-right: 76px;
 .sectionfour-paragraph{
     text-align: center;
 }
+.sectionfive{
+    text-align: center;
+}
 .customers{
     width: 168px;
     height: 88px;
     justify-content: center;
+    gap: 24px;
     
 }
 
@@ -325,6 +329,10 @@ font-family: "Raleway", sans-serif;
     letter-spacing: 0.02em;
     max-width: 264px;
 }
+.footercontainer{
+    display:flex;
+}
+
 .button-portfolio {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
