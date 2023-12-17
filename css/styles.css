@@ -263,8 +263,31 @@ margin-right: 76px;
     margin-bottom: 8px;
 }
 
+.social-icon{
+    width: 40px;
+    height: 40px;
+   border-radius: 50px;
+   background-color: var(--iris);
+   margin-top:8px;
+}
+.socials{
+    justify-content: center;
+    display: flex;
+   flex-direction: row;
+   gap: 24px;
+   justify-content: center;
+   width: 16px;
+   height: 16px;
+}
+
 .sectionfour-paragraph{
     text-align: center;
+}
+.customers{
+    width: 168px;
+    height: 88px;
+    justify-content: center;
+    
 }
 
 
