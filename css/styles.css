@@ -296,6 +296,11 @@ margin-right: 76px;
 .tagasocials{
     width:100%;
     height:100%;
+    background-color:var(--blue)
+    border-radius: 50%;
+    display:flex;
+    align-items:center;
+    align-items:center;
 }
 .tagasocials:hover{
     background-color: #404bbf;
@@ -308,7 +313,6 @@ margin-right: 76px;
     display: flex;
     justify-content: center;
     gap: 24px;
-
 }
 
 .socials{
@@ -321,7 +325,7 @@ margin-right: 76px;
    height: 16px;
 }
 
-.socialslinkclass{
+.socialslinkclass {
     width:100%;
     height:100%;
     background-color: var(--blue);
