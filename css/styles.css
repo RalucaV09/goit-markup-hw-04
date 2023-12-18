@@ -349,8 +349,9 @@ margin-right: 76px;
 .section-five-title{
     font-size: 36px;
     line-height: 1.11;
-    color:var(--dark-blue-var);
     margin-bottom: 72px;
+    color:var(--dark-blue-var);
+    
 }
 
 .customerlist{
