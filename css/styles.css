@@ -417,10 +417,12 @@ font-family: "Raleway", sans-serif;
     color:#F4F4FD;
     letter-spacing: 0.02em;
     max-width: 264px;
+    margin-bottom: 16px;
 }
 .footercontainer{
     display:flex;
     align-items: baseline;
+    
 }
 
 .footerdiv1{
