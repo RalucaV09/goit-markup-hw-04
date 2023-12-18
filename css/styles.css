@@ -337,7 +337,7 @@ margin-right: 76px;
 .sectionfive{
     text-align: center;
 }
-.section5s{
+.sectionfives{
     padding-top: 120px;
     padding-bottom: 120px;
 }
@@ -354,11 +354,12 @@ margin-right: 76px;
     gap: 24px;
 }
 
-.customers{
-    width: calc((100%-120px/6));
+.customerlistitem{
+    width: calc((100%-120px)/6);
     height: 88px;
 }
-.customerlink{
+
+.customerlink {
     width:100%;
     height:100%;
     border:1px solid #8e8f99;
