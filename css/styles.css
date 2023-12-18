@@ -296,11 +296,11 @@ margin-right: 76px;
 .tagasocials{
     width:100%;
     height:100%;
-    background-color:var(--blue)
-    border-radius: 50%;
+    background-color:#4d5ae5;
     display:flex;
     align-items:center;
     align-items:center;
+    border-radius: 50%;
 }
 .tagasocials:hover{
     background-color: #404bbf;
