@@ -332,7 +332,7 @@ margin-right: 76px;
     border-radius: 50%;
     display: flex;
     align-items: center;
-    align-items:center;
+    justify-content:center;
 }
 
 .sectionfour-paragraph{
